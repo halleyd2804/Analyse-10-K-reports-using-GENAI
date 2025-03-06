@@ -1,0 +1,51 @@
+Here's a ranking of the companies based on your provided 10-K analyses, along with explanations:
+
+**- Company: NVDA:**
+
+             - **Ranking:** Neutral
+             - **Explanation:**  The provided analysis lacks any information regarding NVDA's AI opportunities, risks, or investments.  A neutral stance is assigned due to insufficient data.
+
+**- Company: GOOGL:**
+
+             - **Ranking:** Bullish
+             - **Explanation:** Google's 10-K excerpt highlights significant opportunities in AI across search, DeepMind's breakthroughs, and Google Cloud services.  While investment figures are unavailable, the qualitative information points to a strong bullish outlook on AI.
+
+**- Company: MSFT:**
+
+             - **Ranking:** Bullish
+             - **Explanation:** Microsoft acknowledges AI risks but presents a very strong case for AI opportunities, particularly with Copilot and Azure AI.  While precise investment figures are missing, the description of substantial investments across various AI initiatives strongly suggests a multi-billion dollar commitment, indicating a bullish sentiment.
+
+**- Company: AMZN:**
+
+             - **Ranking:** Neutral
+             - **Explanation:**  Insufficient data is provided to assess Amazon's position on AI. A neutral rating is therefore assigned.
+
+**- Company: META:**
+
+             - **Ranking:** Neutral
+             - **Explanation:** Similar to Amazon, the analysis lacks information on Meta's AI strategy, resulting in a neutral ranking.
+
+**- Company: TSLA:**
+
+             - **Ranking:** Neutral
+             - **Explanation:** The provided information offers no insights into Tesla's AI activities, leading to a neutral assessment.
+
+**- Company: IBM:**
+
+             - **Ranking:** Neutral
+             - **Explanation:** The analysis is missing details on IBM's AI strategy, therefore a neutral position is assigned.
+
+**- Company: INTC:**
+
+             - **Ranking:** Neutral
+             - **Explanation:**  No information is available regarding Intel's AI-related activities, necessitating a neutral ranking.
+
+**- Company: CRM:**
+
+             - **Ranking:** Neutral
+             - **Explanation:** Insufficient data is available to determine Salesforce's AI outlook, resulting in a neutral rating.
+
+**- Company: ORCL:**
+
+             - **Ranking:** Bullish
+             - **Explanation:** Oracle acknowledges AI risks, but its opportunities are clearly outlined through the integration of AI into its core products and services (Oracle Autonomous Database, OCI). Although the exact AI investment amount isn't specified, the substantial R&D spending (a portion of which is implicitly allocated to AI) and explicit mention of AI integration points to a bullish outlook.  The estimate of 24.7B USD in investment value is not enough to override a bullish assessment of the company's active engagement in the industry.
